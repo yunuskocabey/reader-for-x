@@ -12,7 +12,9 @@ Everything runs locally in your browser. Reader for X collects no data, makes no
 
 ## Install
 
-Get it from the Chrome Web Store. _(Link coming soon.)_
+**[Add to Chrome — Chrome Web Store](https://chromewebstore.google.com/detail/reader-for-x/nnnobogbdimakckdfgiilbgeemgjjnbe)**
+
+After installing, refresh any open X tabs. Click the toolbar icon to change settings.
 
 ## Support
 
